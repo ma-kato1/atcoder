@@ -5,7 +5,7 @@
 ## 🗂️ フォルダ構成
 \`\`\`
 atcoder/
-  └── AtCoderBeginnersSelection/  # 精選10問
+  └── AtCoderBeginnersSelection/  # 精選10問 解答をみながら
 \`\`\`
 
 ## 🔧 環境
